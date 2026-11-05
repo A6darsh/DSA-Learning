@@ -1,38 +1,32 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
- * };
- */
 class Solution {
 public:
     // TC -> O(N)
     // SC -> O(N), Auxiliary Space
     // we do dfs traversal (left and right)
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        
-        if(root == NULL || root == p || root == q) {
+        vector<TreeNode*> pathP, pathQ;
+        dfs(root, p, pathP);
+        dfs(root, q, pathQ);
 
-            return root;
+        TreeNode* lca = NULL;
+        for(int i = 0; i < min(pathP.size(), pathQ.size()); i++) {
+            if(pathP[i] != pathQ[i]) break;
+            lca = pathQ[i];
         }
 
-        TreeNode* left = lowestCommonAncestor(root->left, p, q);
-        TreeNode* right = lowestCommonAncestor(root->right, p, q);
-
-        if(left == NULL) {
-
-            return right;
-        }
-
-        else if(right == NULL) {
-
-            return left;
-        }
-
-        // if both right and left null then we found our result
-        return root;
+        return lca;
     }
+
+    bool dfs(TreeNode* node, TreeNode* target, vector<TreeNode*> &path) {
+        if(node == NULL) return false;
+
+        path.push_back(node);
+
+        if(node == target) return true;
+        if(dfs(node->left, target, path) || dfs(node->right, target, path)) return true;
+
+        path.pop_back();
+        return false;
+    }
+
 };

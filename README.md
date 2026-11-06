@@ -20,6 +20,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0118-pascals-triangle](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0137-single-number-ii) |
+| [0200-number-of-islands](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0496-next-greater-element-i) |
@@ -69,6 +70,7 @@ Documenting my DSA learning journey, one problem at a time.
 | ------- |
 | [0037-sudoku-solver](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0037-sudoku-solver) |
 | [0130-surrounded-regions](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1020-number-of-enclaves) |
@@ -249,6 +251,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0130-surrounded-regions](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -293,6 +296,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0130-surrounded-regions](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0210-course-schedule-ii) |
 | [0365-water-and-jug-problem](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0365-water-and-jug-problem) |
 | [0547-number-of-provinces](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0547-number-of-provinces) |
@@ -391,6 +395,7 @@ Documenting my DSA learning journey, one problem at a time.
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0947-most-stones-removed-with-same-row-or-column) |

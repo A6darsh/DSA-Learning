@@ -25,6 +25,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0260-single-number-iii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0860-lemonade-change) |
@@ -71,6 +72,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0037-sudoku-solver](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0037-sudoku-solver) |
 | [0130-surrounded-regions](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1020-number-of-enclaves) |
@@ -191,6 +193,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0055-jump-game](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0907-sum-of-subarray-minimums) |
@@ -299,6 +302,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0200-number-of-islands](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0210-course-schedule-ii) |
 | [0365-water-and-jug-problem](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0365-water-and-jug-problem) |
+| [0542-01-matrix](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0733-flood-fill) |

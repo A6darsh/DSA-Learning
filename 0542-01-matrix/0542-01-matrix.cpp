@@ -10,6 +10,7 @@ public:
         
         for(int i = 0; i < n; i++) {
             for(int j = 0; j < m; j++) {
+                // initially push all zeroes in queue so that we can process
                 if(mat[i][j] == 0) q.push({{i, j}, 0});
             }
         }
@@ -26,6 +27,7 @@ public:
 
             dis[r][c] = steps;
 
+            // visit nbrs
             for(int i = 0; i < 4; i++) {
                 int nr = r + dr[i];
                 int nc = c + dc[i];

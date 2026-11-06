@@ -6,9 +6,25 @@ public:
         vector<int> vis(n, -1); // -1 -> No Color
         for(int i = 0; i < n; i++) {
             if(vis[i] == -1) {
-                if(!bfs(i, graph, vis)) return false;
+                // if(!bfs(i, graph, vis)) return false;
+                if(!dfs(i, 0, graph, vis)) return false;
             }
         }
+
+        return true;
+    }
+
+    bool dfs(int node, int color, vector<vector<int>>& graph, vector<int>& vis) {
+        vis[node] = color;
+
+        for(auto nbr : graph[node]) {
+            if(vis[nbr] == -1) {
+                if(!dfs(nbr, !color, graph, vis)) return false;
+            }
+
+            else if(vis[nbr] == vis[node]) return false;
+        }
+
         return true;
     }
 

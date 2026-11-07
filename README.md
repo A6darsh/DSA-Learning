@@ -255,6 +255,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0144-binary-tree-preorder-traversal](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -300,6 +301,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0130-surrounded-regions](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0210-course-schedule-ii) |
 | [0365-water-and-jug-problem](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0365-water-and-jug-problem) |
 | [0542-01-matrix](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0542-01-matrix) |
@@ -410,6 +412,7 @@ Documenting my DSA learning journey, one problem at a time.
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0743-network-delay-time) |
@@ -432,6 +435,7 @@ Documenting my DSA learning journey, one problem at a time.
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -482,4 +486,8 @@ Documenting my DSA learning journey, one problem at a time.
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0365-water-and-jug-problem) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->

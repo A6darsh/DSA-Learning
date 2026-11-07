@@ -10,8 +10,8 @@ public:
             adj[it[1]].push_back(it[0]);
         }
 
-        return usingDFS(numCourses, adj);
-        // return usingBFS(adj);
+        // return usingDFS(numCourses, adj);
+        return usingBFS(adj);
     }
 
     vector<int> usingDFS(int V, vector<vector<int>>& adj) {
@@ -46,7 +46,7 @@ public:
         return false;
     }
 
-    bool usingBFS(vector<vector<int>>& adj) {
+    vector<int> usingBFS(vector<vector<int>>& adj) {
         int n = adj.size();
 
         vector<int> topo;
@@ -74,6 +74,7 @@ public:
             }
         }
 
-        return topo.size() == n;
+        if(topo.size() == n) return topo;
+        return {};
     }
 };

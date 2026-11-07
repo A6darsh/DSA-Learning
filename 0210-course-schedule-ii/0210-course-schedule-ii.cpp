@@ -4,59 +4,76 @@
 class Solution {
 public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        int n = numCourses;
-        vector<vector<int>> adj(n);
-
-        // Build adjacency list: prerequisite -> course
+        // convert into adj list
+        vector<vector<int>> adj(numCourses);
         for(auto it : prerequisites) {
-            adj[it[0]].push_back(it[1]);
+            adj[it[1]].push_back(it[0]);
         }
 
-        vector<int> inorder(n, 0);
+        return usingDFS(numCourses, adj);
+        // return usingBFS(adj);
+    }
 
-        // Calculate indegree of every node
-        for(int i = 0; i < n; i++) {
-            for(auto it : adj[i]) {
-                inorder[it]++;
+    vector<int> usingDFS(int V, vector<vector<int>>& adj) {
+        vector<int> pathVis(V, 0);
+        vector<int> vis(V, 0);
+        vector<int> topo;
+
+        for(int i = 0; i < V; i++) {
+            if(!vis[i]) {
+                if(dfs(i, adj, vis, pathVis, topo)) return {};
             }
+        }
+
+        reverse(topo.begin(), topo.end());
+        return topo;
+    }
+
+    bool dfs(int node, vector<vector<int>>& adj, vector<int>& vis, vector<int>& pathVis, vector<int>& topo) {
+        vis[node] = 1;
+        pathVis[node] = 1;
+
+        for(auto nbr : adj[node]) {
+            if(!vis[nbr]) {
+                if(dfs(nbr, adj, vis, pathVis, topo)) return true;
+            }
+
+            else if(pathVis[nbr]) return true;
+        }
+
+        topo.push_back(node);
+        pathVis[node] = 0;
+        return false;
+    }
+
+    bool usingBFS(vector<vector<int>>& adj) {
+        int n = adj.size();
+
+        vector<int> topo;
+        vector<int> vis(n, 0);
+        vector<int> indegree(n, 0);
+
+        for(int i = 0; i < n; i++) {
+            for(auto node : adj[i]) indegree[node]++;
         }
 
         queue<int> q;
-
-        // Add nodes with indegree 0 to the queue
         for(int i = 0; i < n; i++) {
-            if(inorder[i] == 0) {
-                q.push(i);
-            }
+            if(indegree[i] == 0) q.push(i);
         }
 
-        vector<int> topo;
-
-        // Perform BFS using Kahn's Algorithm
         while(!q.empty()) {
             int node = q.front();
             q.pop();
 
-            topo.push_back(node); // Add the current node to the order
+            topo.push_back(node);
 
-            // Reduce indegree of neighbouring nodes
-            for(auto it : adj[node]) {
-                inorder[it]--;
-
-                // Add the neighbour when its indegree becomes 0
-                if(inorder[it] == 0) {
-                    q.push(it);
-                }
+            for(auto nbr : adj[node]) {
+                indegree[nbr]--;
+                if(indegree[nbr] == 0) q.push(nbr);
             }
         }
 
-        // Reverse to get the required order for the current edge direction
-        reverse(topo.begin(), topo.end());
-
-        // If all courses are included, return the order
-        // Otherwise, a cycle exists
-        if(topo.size() == n) return topo;
-
-        return {};
+        return topo.size() == n;
     }
 };

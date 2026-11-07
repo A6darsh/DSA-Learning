@@ -273,6 +273,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [1020-number-of-enclaves](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1631-path-with-minimum-effort) |
+| [2685-count-the-number-of-complete-components](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -318,6 +319,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [1091-shortest-path-in-binary-matrix](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1631-path-with-minimum-effort) |
+| [2685-count-the-number-of-complete-components](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
@@ -408,6 +410,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [1020-number-of-enclaves](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1631-path-with-minimum-effort) |
+| [2685-count-the-number-of-complete-components](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
@@ -422,6 +425,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2685-count-the-number-of-complete-components](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/2685-count-the-number-of-complete-components) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Graph Coloring
 |  |

@@ -1,54 +1,34 @@
 class Solution {
 public:
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
-        int V = graph.size();
+        int n = graph.size();
+        vector<int> vis(n, 0);
+        vector<int> pathVis(n, 0);
 
-        vector<int> vis(V, 0);
-        vector<int> pathVis(V, 0);
-
-        // Check every node because the graph may be disconnected
-        for(int i = 0; i < V; i++) {
-            if(!vis[i]) {
-                dfs(i, graph, vis, pathVis);
-            }
-        }
+        for(int i = 0; i < n; i++) 
+            dfs(i, graph, vis, pathVis);
 
         vector<int> res;
-
-        // Nodes not involved in a cycle are considered safe
-        for(int i = 0; i < V; i++) {
-            if(!pathVis[i]) {
-                res.push_back(i);
-            }
+        for(int i = 0; i < n; i++) {
+            if(!pathVis[i]) res.push_back(i);
         }
 
         return res;
     }
 
-    bool dfs(int node, vector<vector<int>> &adj,
-             vector<int> &vis, vector<int> &pathVis) {
+    bool dfs(int node, vector<vector<int>> &graph, vector<int> &vis, vector<int> &pathVis) {
+        vis[node] = 1;
+        pathVis[node] = 1;
 
-        vis[node] = 1;      // Mark the node as visited
-        pathVis[node] = 1;  // Mark the node in the current DFS path
-
-        for(auto it : adj[node]) {
-
-            // Visit an unvisited neighbour
-            if(!vis[it]) {
-                if(dfs(it, adj, vis, pathVis)) {
-                    return true; // Cycle found
-                }
+        // visit nbrs
+        for(auto nbr : graph[node]) {
+            if(!vis[nbr]) {
+                if(dfs(nbr, graph, vis, pathVis)) return true;
             }
-
-            // Neighbour is already in the current DFS path
-            else if(pathVis[it]) {
-                return true;
-            }
+            else if(pathVis[nbr]) return true;
         }
 
-        // Remove the node from the current DFS path
         pathVis[node] = 0;
-
-        return false; // No cycle found from this node
+        return false;
     }
 };

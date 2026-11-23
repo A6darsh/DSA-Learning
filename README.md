@@ -37,6 +37,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [1254-number-of-closed-islands](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1352-product-of-the-last-k-numbers) |
 | [1539-kth-missing-positive-number](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -104,6 +105,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0029-divide-two-integers](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0231-power-of-two) |
 | [0365-water-and-jug-problem](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0365-water-and-jug-problem) |
+| [1352-product-of-the-last-k-numbers](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1352-product-of-the-last-k-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -166,6 +168,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0155-min-stack](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0225-implement-stack-using-queues) |
 | [0707-design-linked-list](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0707-design-linked-list) |
+| [1352-product-of-the-last-k-numbers](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -383,6 +386,7 @@ Documenting my DSA learning journey, one problem at a time.
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1352-product-of-the-last-k-numbers) |
 | [3904-smallest-stable-index-ii](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3904-smallest-stable-index-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -501,4 +505,8 @@ Documenting my DSA learning journey, one problem at a time.
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0207-course-schedule) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->

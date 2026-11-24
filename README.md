@@ -47,6 +47,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [2974-minimum-number-game](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3731-find-missing-elements) |
@@ -108,6 +109,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [1352-product-of-the-last-k-numbers](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1352-product-of-the-last-k-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3870-count-commas-in-range) |
 ## Bit Manipulation
@@ -158,10 +160,12 @@ Documenting my DSA learning journey, one problem at a time.
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1291-sequential-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Design
 |  |
 | ------- |
@@ -509,4 +513,8 @@ Documenting my DSA learning journey, one problem at a time.
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1352-product-of-the-last-k-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->

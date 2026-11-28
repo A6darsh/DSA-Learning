@@ -253,6 +253,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -276,6 +277,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0743-network-delay-time) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0802-find-eventual-safe-states) |
@@ -304,6 +306,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -322,6 +325,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0743-network-delay-time) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0802-find-eventual-safe-states) |
@@ -345,6 +349,7 @@ Documenting my DSA learning journey, one problem at a time.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0875-koko-eating-bananas](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/adarshx64-netizen/DSA-Learning/tree/master/1631-path-with-minimum-effort) |
